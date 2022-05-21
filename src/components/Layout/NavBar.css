@@ -1,0 +1,14 @@
+.navbar {
+	text-align: center;
+	font-size: 1.5rem;
+}
+
+.navbar-brand {
+	text-align: center;
+	font-size: 2rem;
+	margin-left: 4rem;
+}
+
+.container {
+	color: white;
+}
